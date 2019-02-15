@@ -1,0 +1,17 @@
+{
+  "name": "testenv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node testEnv",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Moehrlein <code@moehrlein.io>",
+  "license": "MIT",
+  "keywords": [],
+  "repository": "github:mmoehrlein/testEnv",
+  "homepage": "https://github.com/mmoehrlein/testEnv#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
